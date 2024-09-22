@@ -32,7 +32,7 @@ print(blue + """
 [---]               The 3/4 User Scanner (Uonse)             [---]
 [---]                Created by: AKA_Sla7er (AKA)               [---]
 [---]                      Version: 1.0.0                       [---]
-[---]          Homepage: https://ahmedxcx722.github.io/home/    [---]
+[---]          Homepage: https://github.com/AhmedXCX722/Uonor    [---]
                 Welcome to the 3/4 User Scanner Tool (Uonse)
 """ + reset)
 
